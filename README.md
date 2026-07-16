@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Voxel Defender
 
 An isometric, voxel-art reimagining of the arcade classic **Defender** for
@@ -70,7 +69,5 @@ screen, hostile mode, and the game-over path.
   unlocks and the high score last for the play session only.
 - Sounds and music are referenced by name and are optional — the game plays
   silently until you add resources with those names (list in ASSEMBLY.md).
-=======
 # voxel-defender
 A voxel defender clone for the Voxatron platform. See Assembly.md to load it and run it.
->>>>>>> aca7faa9fdcf5ce7be6f052be7a0f9a1e45ddb56
