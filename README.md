@@ -8,6 +8,10 @@ two multi-part bosses, and a pooled particle system doing a lot of confetti.
 See [VOXATRON_DEFENDER_PLAN.md](VOXATRON_DEFENDER_PLAN.md) for the full design
 and [ASSEMBLY.md](ASSEMBLY.md) for how to get it into a Voxatron cartridge.
 
+![Alt text](/landing-screen.jpg?raw=true "Landing Screen")
+
+![Alt text](/game.jpg?raw=true "Game")
+
 ## How to play
 
 Defend the colonists. **Landers** descend, grab them, and haul them skyward —
